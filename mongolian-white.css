@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-001.woff2") format("woff2");
+  unicode-range: U+0020-003F;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-002.woff2") format("woff2");
+  unicode-range: U+0040-005F;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-003.woff2") format("woff2");
+  unicode-range: U+0060-007E, U+00A0;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-004.woff2") format("woff2");
+  unicode-range: U+00A1-00BF, U+00E6;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-005.woff2") format("woff2");
+  unicode-range: U+00EB, U+00F6, U+00FC, U+0109, U+010D, U+014B, U+0161, U+017E, U+01F0, U+0251, U+0254, U+0259, U+0261, U+026A, U+026C, U+0282-0283, U+028A, U+0290, U+02A3-02A4, U+02A6-02A7, U+02D0, U+1800-1806, U+180A;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-006.woff2") format("woff2");
+  unicode-range: U+180B-1819, U+1820-1830;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-007.woff2") format("woff2");
+  unicode-range: U+1831-1842, U+1E33, U+1E91, U+200C-200D, U+2014, U+202F, U+203B-203C, U+2048-2049, U+2713-2714, U+2717-2718;
+}
+
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/fonts/mongolian-white-part-008.woff2") format("woff2");
+  unicode-range: U+3001-3002, U+3008-3011, U+3014-301C;
+}
