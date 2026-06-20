@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Mongolian White";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/martinSCS/MongolianWhite/mnglwhiteotf.woff2") format("woff2");
+}
